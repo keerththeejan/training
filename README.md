@@ -1,10 +1,10 @@
 # adminHMD - A Multipurpose Bootstrap 5 Admin Dashboard Template
 #### Preview
 
- - [Demo](https://themewagon.github.io/adminhmd/)
+
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/adminhmd/)
+
 
 ## Getting Started
 
