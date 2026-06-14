@@ -10,7 +10,7 @@
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/adminhmd.git
+https://github.com/keerththeejan/training.git
 ```
 
 ## Author 
